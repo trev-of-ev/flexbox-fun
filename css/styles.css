@@ -1,0 +1,18 @@
+.container h1 {
+    text-align: center;
+}
+
+img {
+    width: 350px;
+}
+
+.gallery-area {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.single-img {
+    padding: 20px 20px;
+}
